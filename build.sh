@@ -1,2 +1,2 @@
-docker build . --tag xtest
+docker build . --tag pokefinder
 docker compose up
